@@ -1,6 +1,6 @@
 {
     "name": "spekulatius/silverstripe-composer-versions",
-    "description": "Collect information about composer version in SilverStripe",
+    "description": "Collect information about composer package versions in SilverStripe",
     "type": "silverstripe-module",
     "license": "BSD-3-Clause",
     "homepage": "https://github.com/spekulatius/silverstripe-composer-versions",
