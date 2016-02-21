@@ -35,3 +35,7 @@ After the installation execute the following steps:
 1. Run the dev/build to collect the information
 
 2. Use the information in your database (Table "ComposerPackageVersion").
+
+## Ideas
+
+* Export functionality to support e.g. support requests
