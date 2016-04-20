@@ -1,4 +1,4 @@
-# SilverStripe composer versions
+# [SilverStripe composer versions](https://github.com/spekulatius/silverstripe-composer-versions)
 
 [![Build Status](https://api.travis-ci.org/spekulatius/silverstripe-composer-versions.svg?branch=master)](https://travis-ci.org/spekulatius/silverstripe-composer-versions)
 [![Latest Stable Version](https://poser.pugx.org/spekulatius/silverstripe-composer-versions/version.svg)](https://github.com/spekulatius/silverstripe-composer-versions/releases)
