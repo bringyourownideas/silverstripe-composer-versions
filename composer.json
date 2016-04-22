@@ -21,8 +21,8 @@
     ],
     "require": {
         "php": ">5.3.2",
-        "silverstripe/framework": "^3.0",
-        "composer/composer": "*"
+        "composer/composer": "^1.0",
+        "silverstripe/framework": "^3.0"
     },
     "suggest": {
         "friendsofsilverstripe/silverstripe-maintenance": "Toolset to assist with the maintenance of a SilverStripe application"
