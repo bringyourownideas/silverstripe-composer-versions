@@ -10,7 +10,7 @@
 Collects information about the currently installed composer packages and saves it as a DataObject.
 
 *Because this module could expose information to an potential attacker the information doesn't get displayed!
-You need to take care of processing this information somehow! E.g. using the [SilverStripe Maintenance module](https://github.com/FriendsOfSilverStripe/silverstripe-maintenance)*
+You need to take care of processing this information somehow! E.g. using the [SilverStripe Maintenance module](https://github.com/FriendsOfSilverStripe/silverstripe-maintenance "Support for the maintainence of your SilverStripe site")*
 
 ## Requirements
 
@@ -21,7 +21,7 @@ You need to take care of processing this information somehow! E.g. using the [Si
 It is recommended to install this module as a development dependency:
 
 ```
-composer require spekulatius/silverstripe-composer-versions dev-master --dev
+composer require spekulatius/silverstripe-composer-versions --dev
 ```
 
 Please run /dev/build after composer has finished the installation.
@@ -36,6 +36,4 @@ After the installation execute the following steps:
 
 2. Use the information in your database (Table "ComposerPackageVersion").
 
-## Ideas
-
-* Export functionality to support e.g. support requests
+## MISC: [Future ideas/development, issues](https://github.com/spekulatius/silverstripe-composer-versions/issues), [Contributing](https://github.com/spekulatius/silverstripe-composer-versions/blob/master/CONTRIBUTING.md), [License](https://github.com/spekulatius/silverstripe-composer-versions/blob/master/license.md)
