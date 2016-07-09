@@ -5,11 +5,11 @@ Collects information about the currently installed composer packages and saves i
 *Because this module could expose information to an potential attacker the information doesn't get displayed!
 You need to take care of processing this information somehow! E.g. using the [SilverStripe Maintenance module](https://github.com/FriendsOfSilverStripe/silverstripe-maintenance "Support for the maintainence of your SilverStripe site")*
 
-## Requirements
+### Requirements
 
 * SilverStripe Framework ^3.0
 
-## Installation
+### Installation
 
 It is recommended to install this module as a development dependency:
 
@@ -21,7 +21,7 @@ Please run /dev/build after composer has finished the installation.
 
 **Recommendation is to only install this as dev dependency!**
 
-## Usage
+### Usage
 
 After the installation execute the following steps:
 
