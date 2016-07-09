@@ -1,11 +1,4 @@
-# [SilverStripe composer versions](https://github.com/spekulatius/silverstripe-composer-versions)
-
-[![Build Status](https://api.travis-ci.org/spekulatius/silverstripe-composer-versions.svg?branch=master)](https://travis-ci.org/spekulatius/silverstripe-composer-versions)
-[![Latest Stable Version](https://poser.pugx.org/spekulatius/silverstripe-composer-versions/version.svg)](https://github.com/spekulatius/silverstripe-composer-versions/releases)
-[![Latest Unstable Version](https://poser.pugx.org/spekulatius/silverstripe-composer-versions/v/unstable.svg)](https://packagist.org/packages/spekulatius/silverstripe-composer-versions)
-[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/spekulatius/silverstripe-composer-versions.svg)](https://scrutinizer-ci.com/g/spekulatius/silverstripe-composer-versions?branch=master)
-[![Total Downloads](https://poser.pugx.org/spekulatius/silverstripe-composer-versions/downloads.svg)](https://packagist.org/packages/spekulatius/silverstripe-composer-versions)
-[![License](https://poser.pugx.org/spekulatius/silverstripe-composer-versions/license.svg)](https://github.com/spekulatius/silverstripe-composer-versions/blob/master/license.md)
+# [SilverStripe composer versions](https://github.com/spekulatius/silverstripe-composer-versions) <br /> [![Build Status](https://api.travis-ci.org/spekulatius/silverstripe-composer-versions.svg?branch=master)](https://travis-ci.org/spekulatius/silverstripe-composer-versions) [![Latest Stable Version](https://poser.pugx.org/spekulatius/silverstripe-composer-versions/version.svg)](https://github.com/spekulatius/silverstripe-composer-versions/releases) [![Latest Unstable Version](https://poser.pugx.org/spekulatius/silverstripe-composer-versions/v/unstable.svg)](https://packagist.org/packages/spekulatius/silverstripe-composer-versions) [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/spekulatius/silverstripe-composer-versions.svg)](https://scrutinizer-ci.com/g/spekulatius/silverstripe-composer-versions?branch=master) [![Total Downloads](https://poser.pugx.org/spekulatius/silverstripe-composer-versions/downloads.svg)](https://packagist.org/packages/spekulatius/silverstripe-composer-versions) [![License](https://poser.pugx.org/spekulatius/silverstripe-composer-versions/license.svg)](https://github.com/spekulatius/silverstripe-composer-versions/blob/master/license.md)
 
 Collects information about the currently installed composer packages and saves it as a DataObject.
 
