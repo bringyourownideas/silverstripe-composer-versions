@@ -3,7 +3,7 @@
 Collects information about the currently installed composer packages and saves it as a DataObject.
 
 *Because this module could expose information to an potential attacker the information doesn't get displayed!
-You need to take care of processing this information somehow! E.g. using the [SilverStripe Maintenance module](https://github.com/FriendsOfSilverStripe/silverstripe-maintenance "Support for the maintainence of your SilverStripe site")*
+You need to take care of processing this information somehow! E.g. using the [SilverStripe Maintenance module](https://github.com/bringyourownideas/silverstripe-maintenance "Support for the maintainence of your SilverStripe site")*
 
 ### Requirements
 
@@ -19,7 +19,7 @@ composer require bringyourownideas/silverstripe-composer-versions --dev
 
 Please run /dev/build after composer has finished the installation.
 
-**Recommendation is to only install this as dev dependency!**
+**It is recommended to install this as dev dependency only!**
 
 ### Usage
 
