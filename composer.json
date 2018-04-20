@@ -27,6 +27,9 @@
     "suggest": {
         "friendsofsilverstripe/silverstripe-maintenance": "Toolset to assist with the maintenance of a SilverStripe application"
     },
+    "replace": {
+        "spekulatius/silverstripe-composer-versions": "self.version"
+    },
     "support": {
         "issues": "https://github.com/bringyourownideas/silverstripe-composer-versions/issues"
     }
